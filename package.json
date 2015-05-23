@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "non-op": "^0.1.0",
+    "non-op": "git://github.com/sterpe/non-op.git",
     "sprintf-js": "^1.0.2"
   },
   "devDependencies": {},
